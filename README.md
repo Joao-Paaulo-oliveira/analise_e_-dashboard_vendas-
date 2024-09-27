@@ -1,20 +1,20 @@
-Projeto de Análise e Dashboard de uma Loja de Carros
-Este projeto foi desenvolvido como parte do curso de Análise de Dados com o objetivo de realizar a análise de vendas e criar um dashboard interativo para uma loja de carros.
+<h3>Projeto de Análise e Dashboard de uma Loja de Carros
+Este projeto foi desenvolvido como parte do curso de Análise de Dados com o objetivo de realizar a análise de vendas e criar um dashboard interativo para uma loja de carros.</h3>
 
-Objetivos do Projeto
-Analisar as vendas de carros da loja.
+<h4>Objetivos do Projeto
+Analisar as vendas de carros da loja.</h4>
 
 Identificar as tendências de leads ao longo do tempo.
 
 Criar um dashboard interativo para visualização das métricas de desempenho.
 
-Estrutura do Projeto
+<h4>Estrutura do Projeto</h4>
 
 Formato do dashboard: XLSX
 
 Criação de novas variáveis relevantes para a análise.
 
-Análise de Dados:
+<h4>Análise de Dados:</h4>
 
 Dias da semana com maior número de visitas ao site
 
